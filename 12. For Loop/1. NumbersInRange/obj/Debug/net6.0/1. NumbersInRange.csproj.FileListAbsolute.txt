@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/bin/Debug/net6.0/1. NumbersInRange
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/bin/Debug/net6.0/1. NumbersInRange.deps.json
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/bin/Debug/net6.0/1. NumbersInRange.runtimeconfig.json
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/bin/Debug/net6.0/1. NumbersInRange.dll
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/bin/Debug/net6.0/1. NumbersInRange.pdb
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/1. NumbersInRange.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/1. NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/1. NumbersInRange.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/1. NumbersInRange.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/1. NumbersInRange.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/1. NumbersInRange.dll
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/refint/1. NumbersInRange.dll
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/1. NumbersInRange.pdb
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/1. NumbersInRange.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/12. For Loop/1. NumbersInRange/obj/Debug/net6.0/ref/1. NumbersInRange.dll

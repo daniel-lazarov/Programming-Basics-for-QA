@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/bin/Debug/net6.0/6. BoilingWater
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/bin/Debug/net6.0/6. BoilingWater.deps.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/bin/Debug/net6.0/6. BoilingWater.runtimeconfig.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/bin/Debug/net6.0/6. BoilingWater.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/bin/Debug/net6.0/6. BoilingWater.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/6. BoilingWater.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/6. BoilingWater.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/6. BoilingWater.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/6. BoilingWater.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/6. BoilingWater.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/6. BoilingWater.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/refint/6. BoilingWater.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/6. BoilingWater.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/6. BoilingWater.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/6. BoilingWater/obj/Debug/net6.0/ref/6. BoilingWater.dll

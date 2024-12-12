@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{81F974A6-BD24-4C56-8E6B-31A0184F2BC7}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="1. Gauss'Trick/Program.cs">
+    <Files>
+      <File FileName="1. Gauss'Trick/Program.cs" Line="26" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="20. ExerciseArraysAndLists" expanded="True">
+            <Node name="1. Gauss'Trick" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1._220Gauss_227Trick PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

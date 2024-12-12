@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/bin/Debug/net6.0/9. AreaOfFigures
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/bin/Debug/net6.0/9. AreaOfFigures.deps.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/bin/Debug/net6.0/9. AreaOfFigures.runtimeconfig.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/bin/Debug/net6.0/9. AreaOfFigures.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/bin/Debug/net6.0/9. AreaOfFigures.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/9. AreaOfFigures.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/9. AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/9. AreaOfFigures.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/9. AreaOfFigures.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/9. AreaOfFigures.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/9. AreaOfFigures.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/refint/9. AreaOfFigures.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/9. AreaOfFigures.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/9. AreaOfFigures.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/9. AreaOfFigures/obj/Debug/net6.0/ref/9. AreaOfFigures.dll

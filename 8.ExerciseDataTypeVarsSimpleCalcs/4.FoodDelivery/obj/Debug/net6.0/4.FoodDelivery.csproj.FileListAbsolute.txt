@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/bin/Debug/net6.0/4.FoodDelivery
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/bin/Debug/net6.0/4.FoodDelivery.deps.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/bin/Debug/net6.0/4.FoodDelivery.runtimeconfig.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/bin/Debug/net6.0/4.FoodDelivery.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/bin/Debug/net6.0/4.FoodDelivery.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/4.FoodDelivery.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/4.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/4.FoodDelivery.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/4.FoodDelivery.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/4.FoodDelivery.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/4.FoodDelivery.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/refint/4.FoodDelivery.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/4.FoodDelivery.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/4.FoodDelivery.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/4.FoodDelivery/obj/Debug/net6.0/ref/4.FoodDelivery.dll

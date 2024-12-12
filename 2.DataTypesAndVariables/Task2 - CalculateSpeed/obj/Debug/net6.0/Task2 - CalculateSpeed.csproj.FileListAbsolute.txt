@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/Task2 - CalculateSpeed.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/Task2 - CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/Task2 - CalculateSpeed.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/Task2 - CalculateSpeed.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/Task2 - CalculateSpeed.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/bin/Debug/net6.0/Task2 - CalculateSpeed
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/bin/Debug/net6.0/Task2 - CalculateSpeed.deps.json
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/bin/Debug/net6.0/Task2 - CalculateSpeed.runtimeconfig.json
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/bin/Debug/net6.0/Task2 - CalculateSpeed.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/bin/Debug/net6.0/Task2 - CalculateSpeed.pdb
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/Task2 - CalculateSpeed.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/refint/Task2 - CalculateSpeed.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/Task2 - CalculateSpeed.pdb
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/Task2 - CalculateSpeed.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task2 - CalculateSpeed/obj/Debug/net6.0/ref/Task2 - CalculateSpeed.dll

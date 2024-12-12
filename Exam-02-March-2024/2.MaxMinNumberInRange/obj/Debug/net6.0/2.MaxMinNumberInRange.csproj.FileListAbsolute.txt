@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/bin/Debug/net6.0/2.MaxMinNumberInRange
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/bin/Debug/net6.0/2.MaxMinNumberInRange.deps.json
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/bin/Debug/net6.0/2.MaxMinNumberInRange.runtimeconfig.json
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/bin/Debug/net6.0/2.MaxMinNumberInRange.dll
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/bin/Debug/net6.0/2.MaxMinNumberInRange.pdb
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/2.MaxMinNumberInRange.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/2.MaxMinNumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/2.MaxMinNumberInRange.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/2.MaxMinNumberInRange.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/2.MaxMinNumberInRange.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/2.MaxMinNumberInRange.dll
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/refint/2.MaxMinNumberInRange.dll
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/2.MaxMinNumberInRange.pdb
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/2.MaxMinNumberInRange.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/Exam-02-March-2024/2.MaxMinNumberInRange/obj/Debug/net6.0/ref/2.MaxMinNumberInRange.dll

@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/bin/Debug/net6.0/Task5 - TempConverter
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/bin/Debug/net6.0/Task5 - TempConverter.deps.json
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/bin/Debug/net6.0/Task5 - TempConverter.runtimeconfig.json
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/bin/Debug/net6.0/Task5 - TempConverter.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/bin/Debug/net6.0/Task5 - TempConverter.pdb
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/Task5 - TempConverter.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/Task5 - TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/Task5 - TempConverter.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/Task5 - TempConverter.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/Task5 - TempConverter.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/Task5 - TempConverter.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/refint/Task5 - TempConverter.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/Task5 - TempConverter.pdb
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/Task5 - TempConverter.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task5 - TempConverter/obj/Debug/net6.0/ref/Task5 - TempConverter.dll

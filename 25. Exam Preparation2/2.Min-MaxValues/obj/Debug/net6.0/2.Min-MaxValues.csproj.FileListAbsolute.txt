@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/bin/Debug/net6.0/2.Min-MaxValues
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/bin/Debug/net6.0/2.Min-MaxValues.deps.json
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/bin/Debug/net6.0/2.Min-MaxValues.runtimeconfig.json
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/bin/Debug/net6.0/2.Min-MaxValues.dll
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/bin/Debug/net6.0/2.Min-MaxValues.pdb
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/2.Min-MaxValues.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/2.Min-MaxValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/2.Min-MaxValues.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/2.Min-MaxValues.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/2.Min-MaxValues.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/2.Min-MaxValues.dll
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/refint/2.Min-MaxValues.dll
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/2.Min-MaxValues.pdb
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/2.Min-MaxValues.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/2.Min-MaxValues/obj/Debug/net6.0/ref/2.Min-MaxValues.dll

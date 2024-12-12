@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/bin/Debug/net6.0/03 - CustomerInfo
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/bin/Debug/net6.0/03 - CustomerInfo.deps.json
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/bin/Debug/net6.0/03 - CustomerInfo.runtimeconfig.json
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/bin/Debug/net6.0/03 - CustomerInfo.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/bin/Debug/net6.0/03 - CustomerInfo.pdb
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/03 - CustomerInfo.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/03 - CustomerInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/03 - CustomerInfo.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/03 - CustomerInfo.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/03 - CustomerInfo.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/03 - CustomerInfo.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/refint/03 - CustomerInfo.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/03 - CustomerInfo.pdb
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/03 - CustomerInfo.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/obj/Debug/net6.0/ref/03 - CustomerInfo.dll

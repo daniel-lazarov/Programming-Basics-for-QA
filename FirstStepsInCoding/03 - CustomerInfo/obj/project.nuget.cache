@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJtBSX4/Qkvuo9r0rgC1wLsyzGBZJ9ym9aWDNwSzDTqx2fY8UbHmzCBsTzcrqin1tNzo9XRUCz6lOoyuvutG6g==",
+  "success": true,
+  "projectFilePath": "/Users/daniel.lazarov/Projects/FirstStepsInCoding/03 - CustomerInfo/03 - CustomerInfo.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniel.lazarov/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/daniel.lazarov/.nuget/packages/selenium.webdriver/4.16.2/selenium.webdriver.4.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/bin/Debug/net6.0/6. Aquarium
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/bin/Debug/net6.0/6. Aquarium.deps.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/bin/Debug/net6.0/6. Aquarium.runtimeconfig.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/bin/Debug/net6.0/6. Aquarium.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/bin/Debug/net6.0/6. Aquarium.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/6. Aquarium.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/6. Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/6. Aquarium.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/6. Aquarium.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/6. Aquarium.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/6. Aquarium.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/refint/6. Aquarium.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/6. Aquarium.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/6. Aquarium.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/6. Aquarium/obj/Debug/net6.0/ref/6. Aquarium.dll

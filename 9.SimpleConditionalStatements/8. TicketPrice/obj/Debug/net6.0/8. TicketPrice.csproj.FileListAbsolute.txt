@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/bin/Debug/net6.0/8. TicketPrice
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/bin/Debug/net6.0/8. TicketPrice.deps.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/bin/Debug/net6.0/8. TicketPrice.runtimeconfig.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/bin/Debug/net6.0/8. TicketPrice.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/bin/Debug/net6.0/8. TicketPrice.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/8. TicketPrice.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/8. TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/8. TicketPrice.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/8. TicketPrice.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/8. TicketPrice.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/8. TicketPrice.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/refint/8. TicketPrice.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/8. TicketPrice.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/8. TicketPrice.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/8. TicketPrice/obj/Debug/net6.0/ref/8. TicketPrice.dll

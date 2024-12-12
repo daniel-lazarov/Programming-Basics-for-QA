@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/bin/Debug/net6.0/2. FirstNNumbersSum
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/bin/Debug/net6.0/2. FirstNNumbersSum.deps.json
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/bin/Debug/net6.0/2. FirstNNumbersSum.runtimeconfig.json
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/bin/Debug/net6.0/2. FirstNNumbersSum.dll
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/bin/Debug/net6.0/2. FirstNNumbersSum.pdb
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/2. FirstNNumbersSum.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/2. FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/2. FirstNNumbersSum.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/2. FirstNNumbersSum.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/2. FirstNNumbersSum.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/2. FirstNNumbersSum.dll
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/refint/2. FirstNNumbersSum.dll
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/2. FirstNNumbersSum.pdb
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/2. FirstNNumbersSum.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/12. For Loop/2. FirstNNumbersSum/obj/Debug/net6.0/ref/2. FirstNNumbersSum.dll

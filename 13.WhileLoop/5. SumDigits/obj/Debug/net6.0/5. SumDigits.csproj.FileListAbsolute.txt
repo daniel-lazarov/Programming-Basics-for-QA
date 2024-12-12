@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/bin/Debug/net6.0/5. SumDigits
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/bin/Debug/net6.0/5. SumDigits.deps.json
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/bin/Debug/net6.0/5. SumDigits.runtimeconfig.json
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/bin/Debug/net6.0/5. SumDigits.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/bin/Debug/net6.0/5. SumDigits.pdb
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/5. SumDigits.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/5. SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/5. SumDigits.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/5. SumDigits.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/5. SumDigits.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/5. SumDigits.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/refint/5. SumDigits.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/5. SumDigits.pdb
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/5. SumDigits.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/5. SumDigits/obj/Debug/net6.0/ref/5. SumDigits.dll

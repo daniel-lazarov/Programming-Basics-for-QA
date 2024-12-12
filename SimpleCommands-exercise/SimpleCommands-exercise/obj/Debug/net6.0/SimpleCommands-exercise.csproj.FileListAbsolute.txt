@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/bin/Debug/net6.0/SimpleCommands-exercise
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/bin/Debug/net6.0/SimpleCommands-exercise.deps.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/bin/Debug/net6.0/SimpleCommands-exercise.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/bin/Debug/net6.0/SimpleCommands-exercise.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/bin/Debug/net6.0/SimpleCommands-exercise.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/SimpleCommands-exercise.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/SimpleCommands-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/SimpleCommands-exercise.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/SimpleCommands-exercise.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/SimpleCommands-exercise.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/SimpleCommands-exercise.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/refint/SimpleCommands-exercise.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/SimpleCommands-exercise.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/SimpleCommands-exercise.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/SimpleCommands-exercise/obj/Debug/net6.0/ref/SimpleCommands-exercise.dll

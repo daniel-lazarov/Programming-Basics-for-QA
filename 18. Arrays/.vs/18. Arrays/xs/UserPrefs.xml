@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C6766DCF-8BC8-4DC4-BB16-D0327F3D7934}|Default">
+  <MonoDevelop.Ide.ItemProperties.1._220DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4._220EvenAndOddSubtraction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3-2._220ReverseAnArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6._220CommonElements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="18. Arrays" expanded="True">
+            <Node name="1. DayOfWeek" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="2. SumAnArray" expanded="True" />
+            <Node name="3-2. ReverseAnArray" expanded="True" />
+            <Node name="3. ReverseAnArray" expanded="True" />
+            <Node name="4. EvenAndOddSubtraction" expanded="True" />
+            <Node name="5. EqualArrays" expanded="True" />
+            <Node name="6. CommonElements" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.5._220EqualArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.3._220ReverseAnArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.2._220SumAnArray PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

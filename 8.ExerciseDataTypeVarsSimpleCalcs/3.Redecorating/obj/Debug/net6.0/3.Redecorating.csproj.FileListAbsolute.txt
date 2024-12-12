@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/bin/Debug/net6.0/3.Redecorating
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/bin/Debug/net6.0/3.Redecorating.deps.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/bin/Debug/net6.0/3.Redecorating.runtimeconfig.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/bin/Debug/net6.0/3.Redecorating.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/bin/Debug/net6.0/3.Redecorating.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/3.Redecorating.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/3.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/3.Redecorating.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/3.Redecorating.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/3.Redecorating.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/3.Redecorating.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/refint/3.Redecorating.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/3.Redecorating.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/3.Redecorating.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/3.Redecorating/obj/Debug/net6.0/ref/3.Redecorating.dll

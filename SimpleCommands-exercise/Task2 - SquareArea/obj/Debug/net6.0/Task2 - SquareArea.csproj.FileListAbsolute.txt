@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/Task2 - SquareArea.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/Task2 - SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/Task2 - SquareArea.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/Task2 - SquareArea.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/Task2 - SquareArea.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/bin/Debug/net6.0/Task2 - SquareArea
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/bin/Debug/net6.0/Task2 - SquareArea.deps.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/bin/Debug/net6.0/Task2 - SquareArea.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/bin/Debug/net6.0/Task2 - SquareArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/bin/Debug/net6.0/Task2 - SquareArea.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/Task2 - SquareArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/refint/Task2 - SquareArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/Task2 - SquareArea.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/Task2 - SquareArea.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task2 - SquareArea/obj/Debug/net6.0/ref/Task2 - SquareArea.dll

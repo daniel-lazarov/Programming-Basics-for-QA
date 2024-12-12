@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ConsoleAppSummator.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ConsoleAppSummator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ConsoleAppSummator.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ConsoleAppSummator.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ConsoleAppSummator.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/bin/Debug/net6.0/ConsoleAppSummator
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/bin/Debug/net6.0/ConsoleAppSummator.deps.json
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/bin/Debug/net6.0/ConsoleAppSummator.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/bin/Debug/net6.0/ConsoleAppSummator.dll
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/bin/Debug/net6.0/ConsoleAppSummator.pdb
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ConsoleAppSummator.dll
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/refint/ConsoleAppSummator.dll
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ConsoleAppSummator.pdb
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ConsoleAppSummator.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SoftUniPaygroundTests/ConsoleAppSummator/obj/Debug/net6.0/ref/ConsoleAppSummator.dll

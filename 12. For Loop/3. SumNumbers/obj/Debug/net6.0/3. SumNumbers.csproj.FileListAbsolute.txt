@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/bin/Debug/net6.0/3. SumNumbers
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/bin/Debug/net6.0/3. SumNumbers.deps.json
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/bin/Debug/net6.0/3. SumNumbers.runtimeconfig.json
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/bin/Debug/net6.0/3. SumNumbers.dll
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/bin/Debug/net6.0/3. SumNumbers.pdb
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/3. SumNumbers.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/3. SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/3. SumNumbers.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/3. SumNumbers.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/3. SumNumbers.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/3. SumNumbers.dll
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/refint/3. SumNumbers.dll
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/3. SumNumbers.pdb
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/3. SumNumbers.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/12. For Loop/3. SumNumbers/obj/Debug/net6.0/ref/3. SumNumbers.dll

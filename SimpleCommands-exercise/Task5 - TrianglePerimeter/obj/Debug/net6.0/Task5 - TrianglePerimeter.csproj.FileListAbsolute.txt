@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/bin/Debug/net6.0/Task5 - TrianglePerimeter
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/bin/Debug/net6.0/Task5 - TrianglePerimeter.deps.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/bin/Debug/net6.0/Task5 - TrianglePerimeter.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/bin/Debug/net6.0/Task5 - TrianglePerimeter.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/bin/Debug/net6.0/Task5 - TrianglePerimeter.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/Task5 - TrianglePerimeter.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/Task5 - TrianglePerimeter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/Task5 - TrianglePerimeter.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/Task5 - TrianglePerimeter.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/Task5 - TrianglePerimeter.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/Task5 - TrianglePerimeter.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/refint/Task5 - TrianglePerimeter.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/Task5 - TrianglePerimeter.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/Task5 - TrianglePerimeter.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task5 - TrianglePerimeter/obj/Debug/net6.0/ref/Task5 - TrianglePerimeter.dll

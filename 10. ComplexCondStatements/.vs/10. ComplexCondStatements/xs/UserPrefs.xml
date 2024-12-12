@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{9E7F67D0-CD41-4AB8-B2CD-514B11352006}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.9._220Cinema PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2._220LargetsNumOf3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.5._220InvalidNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4._220FoodOrDrink PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../9.SimpleConditionalStatements/10. ValidTriangle/Program.cs" line="4" column="75" endLine="4" endColumn="80" offsetX="-1" offsetY="-1" expression="side2" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workbench ActiveDocument="9. Cinema/Program.cs">
+    <Files>
+      <File FileName="1. MarketPlace/Program.cs" Line="34" Column="31" />
+      <File FileName="2. LargetsNumOf3/Program.cs" Line="34" Column="30" />
+      <File FileName="3. BonusScore/Program.cs" Line="18" Column="2" />
+      <File FileName="4. FoodOrDrink/Program.cs" Line="13" Column="34" />
+      <File FileName="5. InvalidNumber/Program.cs" Line="8" Column="2" />
+      <File FileName="6. DaysOfWeek/Program.cs" Line="10" Column="2" />
+      <File FileName="7. VowelOrConsolant/Program.cs" Line="25" Column="14" />
+      <File FileName="8. SortedNumbers/Program.cs" Line="8" Column="2" />
+      <File FileName="9. Cinema/Program.cs" Line="9" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10. ComplexCondStatements" expanded="True">
+            <Node name="1. MarketPlace" expanded="True" />
+            <Node name="2. LargetsNumOf3" expanded="True" />
+            <Node name="3. BonusScore" expanded="True" />
+            <Node name="4. FoodOrDrink" expanded="True" />
+            <Node name="5. InvalidNumber" expanded="True" />
+            <Node name="6. DaysOfWeek" expanded="True" />
+            <Node name="7. VowelOrConsolant" expanded="True" />
+            <Node name="9. Cinema">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1._220MarketPlace PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.3._220BonusScore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.7._220VowelOrConsolant PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.8._220SortedNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6._220DaysOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

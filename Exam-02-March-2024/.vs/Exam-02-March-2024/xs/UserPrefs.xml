@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{131A6991-4D40-4023-BEB2-E9F6C8C31D94}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.MaxMinNumberInRange/Program.cs">
+    <Files>
+      <File FileName="1.CountLetters/Program.cs" Line="23" Column="1" />
+      <File FileName="2.MaxMinNumberInRange/Program.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exam-02-March-2024" expanded="True">
+            <Node name="2.MaxMinNumberInRange">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1.CountLetters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2.MaxMinNumberInRange PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

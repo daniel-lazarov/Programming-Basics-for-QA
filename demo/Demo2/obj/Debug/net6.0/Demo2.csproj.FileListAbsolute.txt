@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/demo/Demo2/bin/Debug/net6.0/Demo2
+/Users/daniel.lazarov/Projects/demo/Demo2/bin/Debug/net6.0/Demo2.deps.json
+/Users/daniel.lazarov/Projects/demo/Demo2/bin/Debug/net6.0/Demo2.runtimeconfig.json
+/Users/daniel.lazarov/Projects/demo/Demo2/bin/Debug/net6.0/Demo2.dll
+/Users/daniel.lazarov/Projects/demo/Demo2/bin/Debug/net6.0/Demo2.pdb
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/Demo2.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/Demo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/Demo2.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/Demo2.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/Demo2.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/Demo2.dll
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/refint/Demo2.dll
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/Demo2.pdb
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/Demo2.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/demo/Demo2/obj/Debug/net6.0/ref/Demo2.dll

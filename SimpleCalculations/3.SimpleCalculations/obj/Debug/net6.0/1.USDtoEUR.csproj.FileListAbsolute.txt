@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/bin/Debug/net6.0/1.USDtoEUR
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/bin/Debug/net6.0/1.USDtoEUR.deps.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/bin/Debug/net6.0/1.USDtoEUR.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/bin/Debug/net6.0/1.USDtoEUR.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/bin/Debug/net6.0/1.USDtoEUR.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/1.USDtoEUR.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/1.USDtoEUR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/1.USDtoEUR.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/1.USDtoEUR.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/1.USDtoEUR.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/1.USDtoEUR.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/refint/1.USDtoEUR.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/1.USDtoEUR.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/1.USDtoEUR.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/3.SimpleCalculations/obj/Debug/net6.0/ref/1.USDtoEUR.dll

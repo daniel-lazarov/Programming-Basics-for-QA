@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/bin/Debug/net6.0/02 - Greeting
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/bin/Debug/net6.0/02 - Greeting.deps.json
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/bin/Debug/net6.0/02 - Greeting.runtimeconfig.json
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/bin/Debug/net6.0/02 - Greeting.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/bin/Debug/net6.0/02 - Greeting.pdb
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/02 - Greeting.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/02 - Greeting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/02 - Greeting.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/02 - Greeting.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/02 - Greeting.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/02 - Greeting.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/refint/02 - Greeting.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/02 - Greeting.pdb
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/02 - Greeting.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/02 - Greeting/obj/Debug/net6.0/ref/02 - Greeting.dll

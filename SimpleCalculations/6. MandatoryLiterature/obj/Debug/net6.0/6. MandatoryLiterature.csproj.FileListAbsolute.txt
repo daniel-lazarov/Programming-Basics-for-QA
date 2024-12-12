@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/bin/Debug/net6.0/6. MandatoryLiterature
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/bin/Debug/net6.0/6. MandatoryLiterature.deps.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/bin/Debug/net6.0/6. MandatoryLiterature.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/bin/Debug/net6.0/6. MandatoryLiterature.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/bin/Debug/net6.0/6. MandatoryLiterature.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/6. MandatoryLiterature.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/6. MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/6. MandatoryLiterature.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/6. MandatoryLiterature.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/6. MandatoryLiterature.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/6. MandatoryLiterature.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/refint/6. MandatoryLiterature.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/6. MandatoryLiterature.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/6. MandatoryLiterature.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/6. MandatoryLiterature/obj/Debug/net6.0/ref/6. MandatoryLiterature.dll

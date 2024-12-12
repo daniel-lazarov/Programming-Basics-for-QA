@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2DEF405B-C40B-42D2-B117-F52A5F138888}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.Min-MaxValues/Program.cs">
+    <Files>
+      <File FileName="1.MagicNumbers/Program.cs" Line="34" Column="2" />
+      <File FileName="2.Min-MaxValues/Program.cs" Line="30" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="25. Exam Preparation2" expanded="True">
+            <Node name="2.Min-MaxValues">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.2.Min-MaxValues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.1.MagicNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

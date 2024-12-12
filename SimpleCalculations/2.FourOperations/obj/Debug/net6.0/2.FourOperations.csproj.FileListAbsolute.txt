@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/bin/Debug/net6.0/2.FourOperations
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/bin/Debug/net6.0/2.FourOperations.deps.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/bin/Debug/net6.0/2.FourOperations.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/bin/Debug/net6.0/2.FourOperations.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/bin/Debug/net6.0/2.FourOperations.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/2.FourOperations.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/2.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/2.FourOperations.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/2.FourOperations.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/2.FourOperations.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/2.FourOperations.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/refint/2.FourOperations.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/2.FourOperations.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/2.FourOperations.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/2.FourOperations/obj/Debug/net6.0/ref/2.FourOperations.dll

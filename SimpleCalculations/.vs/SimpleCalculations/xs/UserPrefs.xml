@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{4FC04749-A711-40EB-9ED8-DF6BA954B233}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2.FourOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="7. SchoolSupplies/Program.cs">
+    <Files>
+      <File FileName="3.SimpleCalculations/Program.cs" Line="5" Column="30" />
+      <File FileName="2.FourOperations/Program.cs" Line="12" Column="42" />
+      <File FileName="3. Market/Program.cs" Line="1" Column="1" />
+      <File FileName="4. Tiles/Program.cs" Line="17" Column="1" />
+      <File FileName="5. DepositCalc/Program.cs" Line="11" Column="28" />
+      <File FileName="6. MandatoryLiterature/Program.cs" Line="8" Column="32" />
+      <File FileName="7. SchoolSupplies/Program.cs" Line="10" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleCalculations" expanded="True">
+            <Node name="1.USDtoEUR" expanded="True" />
+            <Node name="2.FourOperations" expanded="True" />
+            <Node name="3. Market" expanded="True" />
+            <Node name="4. Tiles" expanded="True" />
+            <Node name="5. DepositCalc" expanded="True" />
+            <Node name="7. SchoolSupplies">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.7._220SchoolSupplies PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.3._220Market PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.5._220DepositCalc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.USDtoEUR PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6._220MandatoryLiterature PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4._220Tiles PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

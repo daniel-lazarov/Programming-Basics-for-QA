@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/1. ReverseNumbers.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/1. ReverseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/1. ReverseNumbers.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/1. ReverseNumbers.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/1. ReverseNumbers.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/bin/Debug/net6.0/1. ReverseNumbers
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/bin/Debug/net6.0/1. ReverseNumbers.deps.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/bin/Debug/net6.0/1. ReverseNumbers.runtimeconfig.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/bin/Debug/net6.0/1. ReverseNumbers.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/bin/Debug/net6.0/1. ReverseNumbers.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/1. ReverseNumbers.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/refint/1. ReverseNumbers.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/1. ReverseNumbers.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/1. ReverseNumbers.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/1. ReverseNumbers/obj/Debug/net6.0/ref/1. ReverseNumbers.dll

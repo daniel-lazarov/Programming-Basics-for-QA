@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{737CAE52-E3E1-4808-825D-89652A123DC5}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="7. LatinLetters/Program.cs">
+    <Files>
+      <File FileName="1. NumbersInRange/Program.cs" Line="7" Column="2" />
+      <File FileName="2. FirstNNumbersSum/Program.cs" Line="7" Column="13" />
+      <File FileName="3. SumNumbers/Program.cs" Line="10" Column="24" />
+      <File FileName="4. NumbersEndingIn7/Program.cs" Line="6" Column="2" />
+      <File FileName="5. NumbersFrom1ToNOver3/Program.cs" Line="6" Column="2" />
+      <File FileName="6. ExamCountdown/Program.cs" Line="7" Column="40" />
+      <File FileName="7. LatinLetters/Program.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="12. For Loop" expanded="True">
+            <Node name="1. NumbersInRange" expanded="True" />
+            <Node name="2. FirstNNumbersSum" expanded="True" />
+            <Node name="3. SumNumbers" expanded="True" />
+            <Node name="4. NumbersEndingIn7" expanded="True" />
+            <Node name="5. NumbersFrom1ToNOver3" expanded="True" />
+            <Node name="7. LatinLetters">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5._220NumbersFrom1ToNOver3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6._220ExamCountdown PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.4._220NumbersEndingIn7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1._220NumbersInRange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../9.SimpleConditionalStatements/10. ValidTriangle/Program.cs" line="4" column="75" endLine="4" endColumn="80" offsetX="-1" offsetY="-1" expression="side2" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.7._220LatinLetters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2._220FirstNNumbersSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3._220SumNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

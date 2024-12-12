@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/Task3 - RectangleArea.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/Task3 - RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/Task3 - RectangleArea.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/Task3 - RectangleArea.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/Task3 - RectangleArea.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/bin/Debug/net6.0/Task3 - RectangleArea
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/bin/Debug/net6.0/Task3 - RectangleArea.deps.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/bin/Debug/net6.0/Task3 - RectangleArea.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/bin/Debug/net6.0/Task3 - RectangleArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/bin/Debug/net6.0/Task3 - RectangleArea.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/Task3 - RectangleArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/refint/Task3 - RectangleArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/Task3 - RectangleArea.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/Task3 - RectangleArea.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task3 - RectangleArea/obj/Debug/net6.0/ref/Task3 - RectangleArea.dll

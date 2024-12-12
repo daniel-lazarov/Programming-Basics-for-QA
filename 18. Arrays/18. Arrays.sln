@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. DayOfWeek", "1. DayOfWeek\1. DayOfWeek.csproj", "{D4E36189-30B0-4A83-BACE-E5FC480D4643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. SumAnArray", "02. SumAnArray\2. SumAnArray.csproj", "{30579B04-8708-4D66-9028-D9E1DAD93030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. ReverseAnArray", "3. ReverseAnArray\3. ReverseAnArray.csproj", "{B81C9835-69BF-4C52-96F0-3FD7AFDF78EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-2. ReverseAnArray", "3-2. ReverseAnArray\3-2. ReverseAnArray.csproj", "{2E6DA5FD-3478-4683-A0CD-124EF4E7E50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. EvenAndOddSubtraction", "4. EvenAndOddSubtraction\4. EvenAndOddSubtraction.csproj", "{42E4DD0F-9177-43A2-9704-D315C797373F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. EqualArrays", "5. EqualArrays\5. EqualArrays.csproj", "{33C45EC1-31D9-4F2B-96D6-80D50E21A128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. CommonElements", "6. CommonElements\6. CommonElements.csproj", "{C6766DCF-8BC8-4DC4-BB16-D0327F3D7934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E36189-30B0-4A83-BACE-E5FC480D4643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E36189-30B0-4A83-BACE-E5FC480D4643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E36189-30B0-4A83-BACE-E5FC480D4643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E36189-30B0-4A83-BACE-E5FC480D4643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30579B04-8708-4D66-9028-D9E1DAD93030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30579B04-8708-4D66-9028-D9E1DAD93030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30579B04-8708-4D66-9028-D9E1DAD93030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30579B04-8708-4D66-9028-D9E1DAD93030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81C9835-69BF-4C52-96F0-3FD7AFDF78EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81C9835-69BF-4C52-96F0-3FD7AFDF78EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81C9835-69BF-4C52-96F0-3FD7AFDF78EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81C9835-69BF-4C52-96F0-3FD7AFDF78EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6DA5FD-3478-4683-A0CD-124EF4E7E50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6DA5FD-3478-4683-A0CD-124EF4E7E50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6DA5FD-3478-4683-A0CD-124EF4E7E50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6DA5FD-3478-4683-A0CD-124EF4E7E50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E4DD0F-9177-43A2-9704-D315C797373F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E4DD0F-9177-43A2-9704-D315C797373F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E4DD0F-9177-43A2-9704-D315C797373F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E4DD0F-9177-43A2-9704-D315C797373F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C45EC1-31D9-4F2B-96D6-80D50E21A128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C45EC1-31D9-4F2B-96D6-80D50E21A128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C45EC1-31D9-4F2B-96D6-80D50E21A128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C45EC1-31D9-4F2B-96D6-80D50E21A128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6766DCF-8BC8-4DC4-BB16-D0327F3D7934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6766DCF-8BC8-4DC4-BB16-D0327F3D7934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6766DCF-8BC8-4DC4-BB16-D0327F3D7934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6766DCF-8BC8-4DC4-BB16-D0327F3D7934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F66910E1-EEA9-42C4-A340-69E902957948}
+	EndGlobalSection
+EndGlobal

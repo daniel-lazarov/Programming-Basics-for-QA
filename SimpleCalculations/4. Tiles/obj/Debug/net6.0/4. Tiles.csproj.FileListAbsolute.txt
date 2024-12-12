@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/4. Tiles.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/4. Tiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/4. Tiles.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/4. Tiles.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/4. Tiles.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/bin/Debug/net6.0/4. Tiles
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/bin/Debug/net6.0/4. Tiles.deps.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/bin/Debug/net6.0/4. Tiles.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/bin/Debug/net6.0/4. Tiles.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/bin/Debug/net6.0/4. Tiles.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/4. Tiles.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/refint/4. Tiles.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/4. Tiles.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/4. Tiles.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/4. Tiles/obj/Debug/net6.0/ref/4. Tiles.dll

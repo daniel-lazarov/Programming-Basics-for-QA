@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/bin/Debug/net6.0/7. NumberProcessor
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/bin/Debug/net6.0/7. NumberProcessor.deps.json
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/bin/Debug/net6.0/7. NumberProcessor.runtimeconfig.json
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/bin/Debug/net6.0/7. NumberProcessor.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/bin/Debug/net6.0/7. NumberProcessor.pdb
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/7. NumberProcessor.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/7. NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/7. NumberProcessor.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/7. NumberProcessor.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/7. NumberProcessor.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/7. NumberProcessor.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/refint/7. NumberProcessor.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/7. NumberProcessor.pdb
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/7. NumberProcessor.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/7. NumberProcessor/obj/Debug/net6.0/ref/7. NumberProcessor.dll

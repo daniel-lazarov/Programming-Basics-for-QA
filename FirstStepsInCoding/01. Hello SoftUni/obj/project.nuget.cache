@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u2T164MkPrKTOhlTaskvqKmBjdgVe9+ZwSo9DzUEZziAG+5y3RRHRDstYq3oWhAcSj8xK17O+3SQxlbW0yV9Pg==",
+  "success": true,
+  "projectFilePath": "/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/01. Hello SoftUni.csproj",
+  "expectedPackageFiles": [
+    "/Users/daniel.lazarov/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/daniel.lazarov/.nuget/packages/selenium.webdriver/4.16.2/selenium.webdriver.4.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}

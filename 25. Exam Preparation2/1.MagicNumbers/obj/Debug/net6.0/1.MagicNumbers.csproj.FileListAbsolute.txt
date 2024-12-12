@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/bin/Debug/net6.0/1.MagicNumbers
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/bin/Debug/net6.0/1.MagicNumbers.deps.json
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/bin/Debug/net6.0/1.MagicNumbers.runtimeconfig.json
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/bin/Debug/net6.0/1.MagicNumbers.dll
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/bin/Debug/net6.0/1.MagicNumbers.pdb
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/1.MagicNumbers.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/1.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/1.MagicNumbers.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/1.MagicNumbers.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/1.MagicNumbers.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/1.MagicNumbers.dll
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/refint/1.MagicNumbers.dll
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/1.MagicNumbers.pdb
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/1.MagicNumbers.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/25. Exam Preparation2/1.MagicNumbers/obj/Debug/net6.0/ref/1.MagicNumbers.dll

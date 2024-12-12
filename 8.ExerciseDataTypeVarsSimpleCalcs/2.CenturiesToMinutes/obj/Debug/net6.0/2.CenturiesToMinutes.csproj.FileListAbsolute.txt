@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/bin/Debug/net6.0/2.CenturiesToMinutes
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/bin/Debug/net6.0/2.CenturiesToMinutes.deps.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/bin/Debug/net6.0/2.CenturiesToMinutes.runtimeconfig.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/bin/Debug/net6.0/2.CenturiesToMinutes.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/bin/Debug/net6.0/2.CenturiesToMinutes.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/2.CenturiesToMinutes.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/2.CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/2.CenturiesToMinutes.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/2.CenturiesToMinutes.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/2.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/2.CenturiesToMinutes.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/refint/2.CenturiesToMinutes.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/2.CenturiesToMinutes.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/2.CenturiesToMinutes.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/2.CenturiesToMinutes/obj/Debug/net6.0/ref/2.CenturiesToMinutes.dll

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{87C3F734-BD7B-4457-B142-C775D59C768B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task4_220-_220TrapezoidArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task3_220-_220RectangleArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Task2_220-_220SquareArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task5_220-_220TrianglePerimeter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task6_220-_220InchToCm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task6 - InchToCm/Program.cs">
+    <Files>
+      <File FileName="SimpleCommands-exercise/Program.cs" Line="4" Column="1" />
+      <File FileName="Task2 - SquareArea/Program.cs" Line="2" Column="1" />
+      <File FileName="Task3 - RectangleArea/Program.cs" Line="4" Column="25" />
+      <File FileName="Task4 - TrapezoidArea/Program.cs" Line="5" Column="25" />
+      <File FileName="Task5 - TrianglePerimeter/Program.cs" Line="5" Column="16" />
+      <File FileName="Task6 - InchToCm/Program.cs" Line="3" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleCommands-exercise" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleCommands-exercise PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

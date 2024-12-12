@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8584F735-DE6C-4419-9A3F-7F31C1D95C5F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task4_220-_220MetersToKm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task8_220-_220ProjectsCreation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task3 - CircleAreaPerimeter/Program.cs">
+    <Files>
+      <File FileName="Task1 - DaysToMinutes/Program.cs" />
+      <File FileName="Task2 - CalculateSpeed/Program.cs" />
+      <File FileName="Task3 - CircleAreaPerimeter/Program.cs" Line="3" Column="8" />
+      <File FileName="Task4 - MetersToKm/Program.cs" />
+      <File FileName="Task5 - TempConverter/Program.cs" />
+      <File FileName="Task6 - PetFood/Program.cs" />
+      <File FileName="Task8 - ProjectsCreation/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2.DataTypesAndVariables" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task6_220-_220PetFood PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Task2_220-_220CalculateSpeed PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task3_220-_220CircleAreaPerimeter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task1_220-_220DaysToMinutes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Task5_220-_220TempConverter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

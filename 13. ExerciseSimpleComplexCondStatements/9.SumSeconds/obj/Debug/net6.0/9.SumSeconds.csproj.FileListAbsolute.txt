@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/bin/Debug/net6.0/9.SumSeconds
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/bin/Debug/net6.0/9.SumSeconds.deps.json
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/bin/Debug/net6.0/9.SumSeconds.runtimeconfig.json
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/bin/Debug/net6.0/9.SumSeconds.dll
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/bin/Debug/net6.0/9.SumSeconds.pdb
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/9.SumSeconds.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/9.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/9.SumSeconds.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/9.SumSeconds.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/9.SumSeconds.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/9.SumSeconds.dll
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/refint/9.SumSeconds.dll
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/9.SumSeconds.pdb
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/9.SumSeconds.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/9.SumSeconds/obj/Debug/net6.0/ref/9.SumSeconds.dll

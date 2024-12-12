@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/bin/Debug/net6.0/3. OddNumber
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/bin/Debug/net6.0/3. OddNumber.deps.json
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/bin/Debug/net6.0/3. OddNumber.runtimeconfig.json
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/bin/Debug/net6.0/3. OddNumber.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/bin/Debug/net6.0/3. OddNumber.pdb
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/3. OddNumber.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/3. OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/3. OddNumber.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/3. OddNumber.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/3. OddNumber.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/3. OddNumber.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/refint/3. OddNumber.dll
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/3. OddNumber.pdb
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/3. OddNumber.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/13.WhileLoop/3. OddNumber/obj/Debug/net6.0/ref/3. OddNumber.dll

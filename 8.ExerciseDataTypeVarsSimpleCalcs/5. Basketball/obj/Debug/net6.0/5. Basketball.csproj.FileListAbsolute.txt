@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/bin/Debug/net6.0/5. Basketball
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/bin/Debug/net6.0/5. Basketball.deps.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/bin/Debug/net6.0/5. Basketball.runtimeconfig.json
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/bin/Debug/net6.0/5. Basketball.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/bin/Debug/net6.0/5. Basketball.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/5. Basketball.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/5. Basketball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/5. Basketball.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/5. Basketball.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/5. Basketball.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/5. Basketball.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/refint/5. Basketball.dll
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/5. Basketball.pdb
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/5. Basketball.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/8.ExerciseDataTypeVarsSimpleCalcs/5. Basketball/obj/Debug/net6.0/ref/5. Basketball.dll

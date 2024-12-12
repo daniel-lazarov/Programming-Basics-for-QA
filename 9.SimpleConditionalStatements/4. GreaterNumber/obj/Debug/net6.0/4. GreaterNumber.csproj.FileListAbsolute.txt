@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/bin/Debug/net6.0/4. GreaterNumber
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/bin/Debug/net6.0/4. GreaterNumber.deps.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/bin/Debug/net6.0/4. GreaterNumber.runtimeconfig.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/bin/Debug/net6.0/4. GreaterNumber.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/bin/Debug/net6.0/4. GreaterNumber.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/4. GreaterNumber.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/4. GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/4. GreaterNumber.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/4. GreaterNumber.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/4. GreaterNumber.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/4. GreaterNumber.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/refint/4. GreaterNumber.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/4. GreaterNumber.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/4. GreaterNumber.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/4. GreaterNumber/obj/Debug/net6.0/ref/4. GreaterNumber.dll

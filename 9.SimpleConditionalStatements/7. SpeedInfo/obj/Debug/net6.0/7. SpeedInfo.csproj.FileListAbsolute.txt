@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/bin/Debug/net6.0/7. SpeedInfo
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/bin/Debug/net6.0/7. SpeedInfo.deps.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/bin/Debug/net6.0/7. SpeedInfo.runtimeconfig.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/bin/Debug/net6.0/7. SpeedInfo.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/bin/Debug/net6.0/7. SpeedInfo.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/7. SpeedInfo.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/7. SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/7. SpeedInfo.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/7. SpeedInfo.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/7. SpeedInfo.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/7. SpeedInfo.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/refint/7. SpeedInfo.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/7. SpeedInfo.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/7. SpeedInfo.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/7. SpeedInfo/obj/Debug/net6.0/ref/7. SpeedInfo.dll

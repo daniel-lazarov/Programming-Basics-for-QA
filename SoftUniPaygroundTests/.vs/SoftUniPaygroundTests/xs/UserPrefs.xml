@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CE609894-6671-4CF4-8A02-D01E679B5A4F}|Unit Tests">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleAppSummator.Tests/AppSummatorTests.cs">
+    <Files>
+      <File FileName="ConsoleAppSummator/Program.cs" Line="16" Column="21" />
+      <File FileName="ConsoleAppSummator.Tests/UnitTest1.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoftUniPaygroundTests" expanded="True">
+            <Node name="ConsoleAppSummator.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="AppSummatorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppSummator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleAppSummator.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

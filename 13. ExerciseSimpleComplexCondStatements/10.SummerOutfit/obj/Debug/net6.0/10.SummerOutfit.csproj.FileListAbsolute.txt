@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit.deps.json
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit.runtimeconfig.json
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit.dll
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/bin/Debug/net6.0/10.SummerOutfit.pdb
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.dll
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/refint/10.SummerOutfit.dll
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.pdb
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/10.SummerOutfit.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/13. ExerciseSimpleComplexCondStatements/10.SummerOutfit/obj/Debug/net6.0/ref/10.SummerOutfit.dll

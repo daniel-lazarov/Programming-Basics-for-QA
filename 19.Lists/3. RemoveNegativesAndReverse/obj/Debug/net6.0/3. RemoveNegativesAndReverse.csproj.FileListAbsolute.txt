@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/bin/Debug/net6.0/3. RemoveNegativesAndReverse
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/bin/Debug/net6.0/3. RemoveNegativesAndReverse.deps.json
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/bin/Debug/net6.0/3. RemoveNegativesAndReverse.runtimeconfig.json
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/bin/Debug/net6.0/3. RemoveNegativesAndReverse.dll
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/bin/Debug/net6.0/3. RemoveNegativesAndReverse.pdb
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/3. RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/3. RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/3. RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/3. RemoveNegativesAndReverse.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/3. RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/3. RemoveNegativesAndReverse.dll
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/refint/3. RemoveNegativesAndReverse.dll
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/3. RemoveNegativesAndReverse.pdb
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/3. RemoveNegativesAndReverse.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/19.Lists/3. RemoveNegativesAndReverse/obj/Debug/net6.0/ref/3. RemoveNegativesAndReverse.dll

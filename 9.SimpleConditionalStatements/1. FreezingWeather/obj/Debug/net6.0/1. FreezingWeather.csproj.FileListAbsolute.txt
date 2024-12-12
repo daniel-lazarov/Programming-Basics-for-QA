@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/bin/Debug/net6.0/1. FreezingWeather
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/bin/Debug/net6.0/1. FreezingWeather.deps.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/bin/Debug/net6.0/1. FreezingWeather.runtimeconfig.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/bin/Debug/net6.0/1. FreezingWeather.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/bin/Debug/net6.0/1. FreezingWeather.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/1. FreezingWeather.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/1. FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/1. FreezingWeather.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/1. FreezingWeather.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/1. FreezingWeather.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/1. FreezingWeather.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/refint/1. FreezingWeather.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/1. FreezingWeather.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/1. FreezingWeather.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/1. FreezingWeather/obj/Debug/net6.0/ref/1. FreezingWeather.dll

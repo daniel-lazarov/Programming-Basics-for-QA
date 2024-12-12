@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1E5B72A2-C4C7-4BD7-80EC-117F040683A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.MiddleElements/Program.cs">
+    <Files>
+      <File FileName="1.SumFactorialEvenDigits/Program.cs" />
+      <File FileName="2.MiddleElements/Program.cs" Line="8" Column="74" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamPrep01" expanded="True">
+            <Node name="1.SumFactorialEvenDigits" expanded="True" />
+            <Node name="2.MiddleElements" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1.SumFactorialEvenDigits PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.2.MiddleElements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

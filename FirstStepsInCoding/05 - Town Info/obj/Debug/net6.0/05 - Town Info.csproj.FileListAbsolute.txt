@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/bin/Debug/net6.0/05 - Town Info
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/bin/Debug/net6.0/05 - Town Info.deps.json
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/bin/Debug/net6.0/05 - Town Info.runtimeconfig.json
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/bin/Debug/net6.0/05 - Town Info.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/bin/Debug/net6.0/05 - Town Info.pdb
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/05 - Town Info.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/05 - Town Info.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/05 - Town Info.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/05 - Town Info.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/05 - Town Info.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/05 - Town Info.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/refint/05 - Town Info.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/05 - Town Info.pdb
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/05 - Town Info.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/05 - Town Info/obj/Debug/net6.0/ref/05 - Town Info.dll

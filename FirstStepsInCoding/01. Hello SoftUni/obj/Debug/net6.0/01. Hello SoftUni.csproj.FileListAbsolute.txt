@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni.deps.json
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni.runtimeconfig.json
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/bin/Debug/net6.0/01. Hello SoftUni.pdb
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/refint/01. Hello SoftUni.dll
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.pdb
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/01. Hello SoftUni.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/FirstStepsInCoding/01. Hello SoftUni/obj/Debug/net6.0/ref/01. Hello SoftUni.dll

@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{88394A95-FBD3-445D-9312-BBFF9D8B5344}|Default">
+  <MonoDevelop.Ide.ItemProperties.8._220FruitVeggies PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.SummerOutfit/Program.cs">
+    <Files>
+      <File FileName="1. NumberType/Program.cs" />
+      <File FileName="2. ATM/Program.cs" />
+      <File FileName="3. BiggestOfFiveNumbers/Program.cs" />
+      <File FileName="4. NumberOperations/Program.cs" />
+      <File FileName="5. VacationExpenses/Program.cs" />
+      <File FileName="6. ProductOfThreeNumbers/Program.cs" />
+      <File FileName="7. WorkingHours/Program.cs" Line="12" Column="2" />
+      <File FileName="8. FruitVeggies/Program.cs" Line="13" Column="31" />
+      <File FileName="9.SumSeconds/Program.cs" Line="9" Column="34" />
+      <File FileName="10.SummerOutfit/Program.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="13. ExerciseSimpleComplexCondStatements" expanded="True">
+            <Node name="1. NumberType" expanded="True" />
+            <Node name="10.SummerOutfit">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="7. WorkingHours" expanded="True" />
+            <Node name="8. FruitVeggies" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.6._220ProductOfThreeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../9.SimpleConditionalStatements/10. ValidTriangle/Program.cs" line="4" column="75" endLine="4" endColumn="80" offsetX="-1" offsetY="-1" expression="side2" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.9.SumSeconds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.5._220VacationExpenses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.7._220WorkingHours PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2._220ATM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3._220BiggestOfFiveNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4._220NumberOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.SummerOutfit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1._220NumberType PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

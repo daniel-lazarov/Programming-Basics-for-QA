@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/bin/Debug/net6.0/Task1 - DaysToMinutes
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/bin/Debug/net6.0/Task1 - DaysToMinutes.deps.json
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/bin/Debug/net6.0/Task1 - DaysToMinutes.runtimeconfig.json
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/bin/Debug/net6.0/Task1 - DaysToMinutes.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/bin/Debug/net6.0/Task1 - DaysToMinutes.pdb
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/Task1 - DaysToMinutes.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/Task1 - DaysToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/Task1 - DaysToMinutes.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/Task1 - DaysToMinutes.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/Task1 - DaysToMinutes.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/Task1 - DaysToMinutes.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/refint/Task1 - DaysToMinutes.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/Task1 - DaysToMinutes.pdb
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/Task1 - DaysToMinutes.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task1 - DaysToMinutes/obj/Debug/net6.0/ref/Task1 - DaysToMinutes.dll

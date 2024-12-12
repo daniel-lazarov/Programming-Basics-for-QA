@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{0420AD63-09EF-4BD0-BA8F-7CF32B75EA5A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="9. PasswordValidator/Program.cs">
+    <Files>
+      <File FileName="1. StupidPassword/Program.cs" Line="11" Column="2" />
+      <File FileName="2. MagicNumbers/Program.cs" Line="16" Column="2" />
+      <File FileName="3. UniquePINCodes/Program.cs" Line="22" Column="2" />
+      <File FileName="6. VowelsCount/Program.cs" Line="20" Column="2" />
+      <File FileName="4. LetterCombinations/Program.cs" Line="22" Column="26" />
+      <File FileName="5. HappyNumbers/Program.cs" Line="18" Column="2" />
+      <File FileName="7. FactorialDivision/Program.cs" Line="17" Column="22" />
+      <File FileName="8. MultiplicationSign/Program.cs" Line="11" Column="20" />
+      <File FileName="9. PasswordValidator/Program.cs" Line="21" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="17. NestedLoops&amp;MethodsExercise" expanded="True">
+            <Node name="1. StupidPassword" expanded="True" />
+            <Node name="2. MagicNumbers" expanded="True" />
+            <Node name="3. UniquePINCodes" expanded="True" />
+            <Node name="4. LetterCombinations" expanded="True" />
+            <Node name="5. HappyNumbers" expanded="True" />
+            <Node name="6. VowelsCount" expanded="True" />
+            <Node name="7. FactorialDivision" expanded="True" />
+            <Node name="9. PasswordValidator">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5._220HappyNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6._220VowelsCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.9._220PasswordValidator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1._220StupidPassword PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.4._220LetterCombinations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.7._220FactorialDivision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2._220MagicNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3._220UniquePINCodes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.8._220MultiplicationSign PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

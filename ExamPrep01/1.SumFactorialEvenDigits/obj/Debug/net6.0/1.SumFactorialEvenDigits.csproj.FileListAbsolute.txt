@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/bin/Debug/net6.0/1.SumFactorialEvenDigits
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/bin/Debug/net6.0/1.SumFactorialEvenDigits.deps.json
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/bin/Debug/net6.0/1.SumFactorialEvenDigits.runtimeconfig.json
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/bin/Debug/net6.0/1.SumFactorialEvenDigits.dll
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/bin/Debug/net6.0/1.SumFactorialEvenDigits.pdb
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/1.SumFactorialEvenDigits.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/1.SumFactorialEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/1.SumFactorialEvenDigits.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/1.SumFactorialEvenDigits.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/1.SumFactorialEvenDigits.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/1.SumFactorialEvenDigits.dll
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/refint/1.SumFactorialEvenDigits.dll
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/1.SumFactorialEvenDigits.pdb
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/1.SumFactorialEvenDigits.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/ExamPrep01/1.SumFactorialEvenDigits/obj/Debug/net6.0/ref/1.SumFactorialEvenDigits.dll

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5B99AEBD-4F9D-42B2-853A-C6DE36824056}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1._220ChangeList FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.2._220ListOfProducts PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="5. ListManipulationAdvanced/Program.cs">
+    <Files>
+      <File FileName="1. ChangeList/Program.cs" />
+      <File FileName="2. ListOfProducts/Program.cs" />
+      <File FileName="3. RemoveNegativesAndReverse/Program.cs" />
+      <File FileName="4. ListManipulationBasics/Program.cs" />
+      <File FileName="5. ListManipulationAdvanced/Program.cs" Line="10" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="19.Lists" expanded="True">
+            <Node name="1. ChangeList" expanded="True" />
+            <Node name="2. ListOfProducts" expanded="True" />
+            <Node name="3. RemoveNegativesAndReverse" expanded="True" />
+            <Node name="5. ListManipulationAdvanced" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4._220ListManipulationBasics FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3._220RemoveNegativesAndReverse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.5._220ListManipulationAdvanced FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

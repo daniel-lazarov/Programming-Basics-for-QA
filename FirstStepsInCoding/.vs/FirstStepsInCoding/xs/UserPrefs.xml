@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B35B5B8D-D31D-4517-870A-9DFE70A1BFA6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02_220-_220Greeting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04_220-_220Person_220Info PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05 - Town Info/Program.cs">
+    <Files>
+      <File FileName="01. Hello SoftUni/Program.cs" Line="2" Column="34" />
+      <File FileName="02 - Greeting/Program.cs" Line="4" Column="1" />
+      <File FileName="03 - CustomerInfo/Program.cs" Line="8" Column="88" />
+      <File FileName="04 - Person Info/Program.cs" Line="6" Column="46" />
+      <File FileName="05 - Town Info/Program.cs" Line="6" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstStepsInCoding" expanded="True">
+            <Node name="01. Hello SoftUni" expanded="True" />
+            <Node name="02 - Greeting" expanded="True" />
+            <Node name="03 - CustomerInfo" expanded="True" />
+            <Node name="05 - Town Info">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03_220-_220CustomerInfo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01._220Hello_220SoftUni PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05_220-_220Town_220Info PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

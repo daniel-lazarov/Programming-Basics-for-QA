@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{24660660-EF69-41CB-AB4A-1774194A567D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.2._220EvenPowersOf2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.5._220NumberPyramid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1._220NumbersFromNto1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="8. PrimeNumbers/Program.cs">
+    <Files>
+      <File FileName="1. NumbersFromNto1/Program.cs" />
+      <File FileName="2. EvenPowersOf2/Program.cs" />
+      <File FileName="3. TriangleOfStars/Program.cs" />
+      <File FileName="4. Building/Program.cs" />
+      <File FileName="6. TravelSavings/Program.cs" />
+      <File FileName="5. NumberPyramid/Program.cs" />
+      <File FileName="7. SumOfDigitsCalculator/Program.cs" />
+      <File FileName="8. PrimeNumbers/Program.cs" Line="19" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="15. NestedLoops" expanded="True">
+            <Node name="1. NumbersFromNto1" expanded="True" />
+            <Node name="8. PrimeNumbers">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.7._220SumOfDigitsCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4._220Building PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6._220TravelSavings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.8._220PrimeNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3._220TriangleOfStars PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{B9FA6500-2631-450E-9946-E122B3161524}|Default">
+  <MonoDevelop.Ide.ItemProperties.1._220SignOfIntegerNumber PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.8._220MultiplyEvensByOdds PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.7._220GreaterOfTwoValues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="9. Orders/Program.cs">
+    <Files>
+      <File FileName="1. SignOfIntegerNumber/Program.cs" Line="3" Column="16" />
+      <File FileName="2. Grades/Program.cs" Line="10" Column="6" />
+      <File FileName="3. PrintingTriangle/Program.cs" Line="5" Column="6" />
+      <File FileName="4. CalculateRectangleArea/Program.cs" Line="10" Column="2" />
+      <File FileName="5. RepeatString/Program.cs" Line="16" Column="2" />
+      <File FileName="6. MathPower/Program.cs" Line="14" Column="2" />
+      <File FileName="7. GreaterOfTwoValues/Program.cs" Line="20" Column="2" />
+      <File FileName="8. MultiplyEvensByOdds/Program.cs" Line="13" Column="10" />
+      <File FileName="9. Orders/Program.cs" Line="15" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="16. Methods" expanded="True">
+            <Node name="1. SignOfIntegerNumber" expanded="True" />
+            <Node name="2. Grades" expanded="True" />
+            <Node name="3. PrintingTriangle" expanded="True" />
+            <Node name="4. CalculateRectangleArea" expanded="True" />
+            <Node name="5. RepeatString" expanded="True" />
+            <Node name="6. MathPower" expanded="True" />
+            <Node name="7. GreaterOfTwoValues" expanded="True" />
+            <Node name="9. Orders">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.4._220CalculateRectangleArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.3._220PrintingTriangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.9._220Orders PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2._220Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.5._220RepeatString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6._220MathPower PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/Task3 - CircleAreaPerimeter.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/Task3 - CircleAreaPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/Task3 - CircleAreaPerimeter.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/Task3 - CircleAreaPerimeter.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/Task3 - CircleAreaPerimeter.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/bin/Debug/net6.0/Task3 - CircleAreaPerimeter
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/bin/Debug/net6.0/Task3 - CircleAreaPerimeter.deps.json
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/bin/Debug/net6.0/Task3 - CircleAreaPerimeter.runtimeconfig.json
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/bin/Debug/net6.0/Task3 - CircleAreaPerimeter.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/bin/Debug/net6.0/Task3 - CircleAreaPerimeter.pdb
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/Task3 - CircleAreaPerimeter.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/refint/Task3 - CircleAreaPerimeter.dll
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/Task3 - CircleAreaPerimeter.pdb
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/Task3 - CircleAreaPerimeter.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/2.DataTypesAndVariables/Task3 - CircleAreaPerimeter/obj/Debug/net6.0/ref/Task3 - CircleAreaPerimeter.dll

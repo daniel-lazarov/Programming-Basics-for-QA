@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/bin/Debug/net6.0/2. EvenOdd
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/bin/Debug/net6.0/2. EvenOdd.deps.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/bin/Debug/net6.0/2. EvenOdd.runtimeconfig.json
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/bin/Debug/net6.0/2. EvenOdd.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/bin/Debug/net6.0/2. EvenOdd.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/2. EvenOdd.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/2. EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/2. EvenOdd.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/2. EvenOdd.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/2. EvenOdd.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/2. EvenOdd.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/refint/2. EvenOdd.dll
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/2. EvenOdd.pdb
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/2. EvenOdd.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/9.SimpleConditionalStatements/2. EvenOdd/obj/Debug/net6.0/ref/2. EvenOdd.dll

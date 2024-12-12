@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/bin/Debug/net6.0/Task4 - TrapezoidArea
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/bin/Debug/net6.0/Task4 - TrapezoidArea.deps.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/bin/Debug/net6.0/Task4 - TrapezoidArea.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/bin/Debug/net6.0/Task4 - TrapezoidArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/bin/Debug/net6.0/Task4 - TrapezoidArea.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/Task4 - TrapezoidArea.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/Task4 - TrapezoidArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/Task4 - TrapezoidArea.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/Task4 - TrapezoidArea.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/Task4 - TrapezoidArea.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/Task4 - TrapezoidArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/refint/Task4 - TrapezoidArea.dll
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/Task4 - TrapezoidArea.pdb
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/Task4 - TrapezoidArea.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCommands-exercise/Task4 - TrapezoidArea/obj/Debug/net6.0/ref/Task4 - TrapezoidArea.dll

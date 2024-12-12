@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/bin/Debug/net6.0/7. SchoolSupplies
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/bin/Debug/net6.0/7. SchoolSupplies.deps.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/bin/Debug/net6.0/7. SchoolSupplies.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/bin/Debug/net6.0/7. SchoolSupplies.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/bin/Debug/net6.0/7. SchoolSupplies.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/7. SchoolSupplies.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/7. SchoolSupplies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/7. SchoolSupplies.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/7. SchoolSupplies.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/7. SchoolSupplies.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/7. SchoolSupplies.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/refint/7. SchoolSupplies.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/7. SchoolSupplies.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/7. SchoolSupplies.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/7. SchoolSupplies/obj/Debug/net6.0/ref/7. SchoolSupplies.dll

@@ -1,0 +1,15 @@
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/bin/Debug/net6.0/5. DepositCalc
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/bin/Debug/net6.0/5. DepositCalc.deps.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/bin/Debug/net6.0/5. DepositCalc.runtimeconfig.json
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/bin/Debug/net6.0/5. DepositCalc.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/bin/Debug/net6.0/5. DepositCalc.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/5. DepositCalc.csproj.AssemblyReference.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/5. DepositCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/5. DepositCalc.AssemblyInfoInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/5. DepositCalc.AssemblyInfo.cs
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/5. DepositCalc.csproj.CoreCompileInputs.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/5. DepositCalc.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/refint/5. DepositCalc.dll
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/5. DepositCalc.pdb
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/5. DepositCalc.genruntimeconfig.cache
+/Users/daniel.lazarov/Projects/SimpleCalculations/5. DepositCalc/obj/Debug/net6.0/ref/5. DepositCalc.dll
